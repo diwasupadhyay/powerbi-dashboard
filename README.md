@@ -6,7 +6,7 @@ An interactive sales analytics dashboard built with **Microsoft Power BI**, usin
 
 ## Dashboard Preview
 
-![Power BI Sales Dashboard](assets/dashboard-preview.png)
+![Power BI Sales Dashboard](assets/dashboard-preview.jpg)
 
 > Open the `.pbix` file in Power BI Desktop to explore the full interactive dashboard.
 
