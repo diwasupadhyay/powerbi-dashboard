@@ -6,7 +6,9 @@ An interactive sales analytics dashboard built with **Microsoft Power BI**, usin
 
 ## Dashboard Preview
 
-> Open the `.pbix` file in Power BI Desktop to explore the interactive dashboard.
+![Power BI Sales Dashboard](assets/dashboard-preview.png)
+
+> Open the `.pbix` file in Power BI Desktop to explore the full interactive dashboard.
 
 ---
 
@@ -69,9 +71,11 @@ The project uses two CSV files as the data source:
 
 ```
 powerbi-dashboard/
-├── Orders.csv       # Customer and order info
-├── Details.csv      # Order financials and product details
-├── Dashboard.pbix   # Power BI report file
+├── assets/
+│   └── dashboard-preview.png   # Dashboard screenshot
+├── Orders.csv                  # Customer and order info
+├── Details.csv                 # Order financials and product details
+├── Dashboard.pbix              # Power BI report file
 └── README.md
 ```
 
